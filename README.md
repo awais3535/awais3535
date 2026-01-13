@@ -94,11 +94,3 @@ password recovery,and Stripe Connect for payments and seller onboarding.
 [View Project](https://dytto.com/)
 
 ---
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=awais3535&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais3535&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=awais3535&theme=default" alt="GitHub Streak" />
