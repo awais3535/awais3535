@@ -1,96 +1,312 @@
-# Hello 👋, I'm Awais Ur Rehman
-### Senior Backend Developer
+# Hi 👋, I'm Awais Ur Rehman
 
-I’m a Software Engineer with 3+ years of hands-on experience in backend development, primarily using the MERN stack, NestJS, and Node.js. I specialize in building scalable, secure, and high-performance backend systems.
+### Senior Backend Developer | Node.js • NestJS • Scalable APIs • Cloud • AI Integrations
 
-I’ve worked on complex real-world applications including e-commerce platforms, healthcare systems, marketplaces, and AI-powered products, handling 90+ APIs, implementing RBAC, payment gateways, real-time communication, and cloud deployments on AWS, DigitalOcean and Azure. I’m comfortable working in collaborative environments with frontend, QA, and product teams, and I actively contribute to CI/CD pipelines using GitHub Actions and Docker.
-I focus on clean architecture, problem-solving, and building scalable cloud-ready systems with an interest in AI.
+I'm a **Software Engineer with 3+ years of professional experience** specializing in backend development and scalable application architecture.
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/awais-rehmansoft-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+My core expertise is building **secure, high-performance, cloud-ready backend systems** using **Node.js, NestJS, Express.js, MongoDB, PostgreSQL, Redis, and AWS**.
 
-## Skills
+I've contributed to production applications across **SaaS, FinTech, Healthcare, E-commerce, Marketplaces, Advertising Analytics, and AI-powered products**.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://insomnia.rest/images/insomnia-logo-light.svg" alt="insomnia" width="40" height="40"/>&nbsp;
-<img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="aws" width="40" height="40"/>&nbsp;
-<img src="https://dam-cdn.atl.orangelogic.com/AssetLink/b6h1bm863yd6lg887cu0w20547241r6p.svg" alt="bitbucket" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxPdlIPIlLeDZyhScE6rYOOHHBaTU_mVWjA&s" alt="digitalocean" width="40" height="40"/>&nbsp;
-<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/>&nbsp;
-<img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://bullmq.io/images/bullmq-logo.png" alt="bullmq" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/>&nbsp;
-<img src="https://coingate.com/app/themes/coingate/dist/images/coingate/logo-full.svg" alt="coingate" width="40" height="40"/>&nbsp;
-<img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Emblem.png" alt="stripe" width="40" height="40"/>&nbsp;
-<img src="https://thepaymentsassociation.org/wp-content/uploads/2025/01/New-Member-Logo-1-1.png" alt="ecommpay" width="40" height="40"/>&nbsp;
-</p>
+My experience includes building and maintaining systems with:
 
-## Projects
+- 90+ production APIs
+- Multi-tenant SaaS architecture
+- RESTful APIs & WebSockets
+- Role-Based Access Control (RBAC)
+- OAuth & social authentication
+- Stripe & payment gateway integrations
+- Redis caching & distributed job queues
+- BullMQ background processing
+- Real-time communication
+- Third-party API integrations
+- AI & LLM integrations
+- Dockerized deployments
+- CI/CD pipelines
+- AWS, Azure & DigitalOcean infrastructure
+- Rate limiting & API security
+- Monitoring and production troubleshooting
 
-### Mansoora Homeopathic Clinic&Pharmacy
-
-<img src="https://img1.wsimg.com/isteam/ip/88a25cc0-be84-4a7b-bb97-fb5a85513e24/Screenshot%202025-01-05%20at%2017.02.16.png/:/rs=w:114,h:66,cg:true,m/cr=w:114,h:66/qt=q:100/ll" alt="Mansoora Homeopathic Clinic&Pharmacy" width="300"/>
-
-The Mansoora Homeopathic Clinic and Pharmacy platform is a comprehensive, user-friendly web application, built with NestJS,
-enables online appointment booking, Zoom teleconsultations, and an online pharmacy with home delivery.Platform uses
-MongoDB. it ensures secure transactions through Stripe for a reliable healthcare experience
-
-[View Project](https://mansoora.com.au/)
+I enjoy solving complex backend problems, designing clean architectures, improving system reliability, and building systems that can scale as products grow.
 
 ---
 
-### Lootedge
+## 🛠️ Tech Stack
 
-<img src="https://lootedge.com/Logo.svg" alt="Lootedge" width="300"/>
+### Backend
 
-Lootedge, a gaming e-commerce platform built with Express.js,offering game assets and boosting services.Features advanced
-Mongoose filtering,2FA,URL-based SEO,Docker deployment on DigitalOcean,payments via
-CoinGate(crypto),Ecommpay(card,Apple Pay,Google Pay),real-time chat with WebSockets,and emails via Brevo.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-[View Project](https://lootedge.com/)
+### Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-Queue_Processing-red?style=flat-square)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### APIs, Payments & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Development & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### Skaly
+# 🚀 Featured Projects
 
-<img src="https://www.skalyapp.com/assets/skaly-logo-CrUEXhXm.png" alt="Skaly" width="300"/>
+## Crickity
 
-Skaly AI, a data-driven business coach that ingests CSV/XLS/QuickBooks data, standardizes PL, and surfaces KPIs,
-cost-saving insights, and weekly focus plans. Implemented LLM-powered analysis and an AI Coach chatbot for finance/ops QA
-with prioritized actions. Integrated Google Maps for partner discovery and tailored outreach automation. Added RBAC,
-dashboards/reporting, Stripe subscription billing with webhooks, and Redis + BullMQ for caching and background job
-processing.
+**Multi-Tenant SaaS • Advertising Analytics • Alerts • Cloud Infrastructure**
 
-[View Project](https://www.skalyapp.com/)
+Crickity is a **multi-tenant SaaS platform for advertising performance monitoring** across Meta, Google, and TikTok Ads.
+
+The platform tracks critical advertising KPIs including **ad spend, CPA, ROAS, and campaign performance**, allowing businesses to configure automated alerts when important metrics cross predefined thresholds.
+
+I worked on backend capabilities including multi-tenant architecture, authentication and authorization, integrations, background processing, alert delivery, subscription management, API security, and cloud deployment.
+
+**Key Technologies & Features**
+
+`Node.js` `NestJS` `MongoDB` `Redis` `BullMQ` `Stripe` `SendGrid` `Swagger` `Docker` `AWS ECS` `Amazon ECR` `GitHub Actions`
+
+- Multi-tenant SaaS architecture
+- Role-based authentication and authorization
+- Meta, Google and TikTok Ads integrations
+- KPI monitoring for CPA, ROAS and ad spend
+- Email, Slack, Discord, Telegram and Microsoft Teams alerts
+- Redis caching and BullMQ background queues
+- Stripe subscription management
+- API rate limiting and security controls
+- Swagger API documentation
+- Docker containerization
+- CI/CD using GitHub Actions
+- Production deployment using Amazon ECR and Amazon ECS
+
+🔗 [Visit Crickity](https://www.app.crickity.com/)
 
 ---
 
-### Dytto
+## CohortGenie
 
-<img src="https://dytto.com/logo.svg" alt="Dytto" width="300"/>
+**Financial Analytics SaaS • QuickBooks Integration • Data Processing**
 
-Marketplace for products, services,and donations.Integrates Firebase for notifications,real-time chat ,KYC verification, and
-supports social authentication and phone verification via Twilio.Google Maps handles locations,while SendGrid manages email
-password recovery,and Stripe Connect for payments and seller onboarding.
+CohortGenie is a **SaaS-based financial data integration and analytics platform** that connects multi-workspace accounts with **QuickBooks Online through OAuth**.
 
-[View Project](https://dytto.com/)
+The system synchronizes invoices, customers, sales receipts, refund receipts, credit memos, and other financial data into MongoDB using **scheduled fetching and batch processing**.
+
+It provides financial analytics and customer retention insights while supporting secure workspace-level accounting integrations.
+
+**Key Technologies & Features**
+
+`Node.js` `Express.js` `MongoDB` `QuickBooks Online` `OAuth` `Stripe` `DigitalOcean` `Cloudflare`
+
+- QuickBooks Online OAuth integration
+- Multi-workspace architecture
+- Secure company and accounting context handling
+- Scheduled data fetching
+- Batch processing
+- Invoice and transaction synchronization
+- Customer mapping
+- CSV transaction exports
+- Date-based filtering
+- Business analytics
+- Customer retention metrics
+- Stripe subscription management
+- DigitalOcean deployment
+- Cloudflare security and DDoS protection
+
+🔗 [Visit CohortGenie](https://app.cohortgenie.com/)
 
 ---
+
+## Skaly AI
+
+**AI-Powered Business Intelligence • Financial Analytics • Automation**
+
+Skaly AI is a data-driven **AI business coaching platform** that processes CSV, XLS, and QuickBooks financial data and transforms it into structured business insights.
+
+The platform analyzes financial performance, standardizes P&L data, identifies KPIs and cost-saving opportunities, and generates prioritized weekly action plans.
+
+I worked on AI-powered backend capabilities, financial data processing, authentication, billing, background jobs, and third-party integrations.
+
+**Key Technologies & Features**
+
+`Node.js` `AI/LLM` `QuickBooks` `Redis` `BullMQ` `Stripe` `Google Maps` `RBAC`
+
+- LLM-powered financial analysis
+- AI Coach chatbot
+- CSV and XLS processing
+- QuickBooks integration
+- KPI and financial performance analytics
+- Cost-saving recommendations
+- Weekly business focus plans
+- Google Maps partner discovery
+- Automated outreach workflows
+- Role-Based Access Control
+- Dashboard and reporting APIs
+- Stripe subscription billing and webhooks
+- Redis caching
+- BullMQ background job processing
+
+🔗 [Visit Skaly](https://www.skalyapp.com/)
+
+---
+
+## Mansoora Homeopathic Clinic & Pharmacy
+
+**Healthcare • Telemedicine • E-commerce**
+
+Mansoora is a comprehensive healthcare platform for a homeopathic clinic and pharmacy.
+
+The platform enables patients to book appointments, attend remote consultations, purchase pharmacy products, and securely complete online payments.
+
+**Key Technologies & Features**
+
+`NestJS` `MongoDB` `Stripe` `Zoom`
+
+- Online appointment booking
+- Zoom teleconsultations
+- Online pharmacy
+- Home delivery workflow
+- Secure backend APIs
+- Stripe payment processing
+- Patient and order management
+
+🔗 [Visit Mansoora](https://mansoora.com.au/)
+
+---
+
+## Lootedge
+
+**Gaming Marketplace • Payments • Real-Time Communication**
+
+Lootedge is a gaming e-commerce platform offering digital game assets and boosting services.
+
+The backend handles complex product filtering, payments, security, real-time messaging, transactional emails, and cloud deployment.
+
+**Key Technologies & Features**
+
+`Node.js` `Express.js` `MongoDB` `WebSockets` `Docker` `DigitalOcean`
+
+- Advanced Mongoose filtering
+- Two-factor authentication
+- SEO-friendly URL architecture
+- Real-time WebSocket chat
+- CoinGate cryptocurrency payments
+- Ecommpay card payments
+- Apple Pay and Google Pay support
+- Brevo transactional emails
+- Docker-based deployment
+- DigitalOcean infrastructure
+
+🔗 [Visit Lootedge](https://lootedge.com/)
+
+---
+
+## Dytto
+
+**Marketplace • Stripe Connect • Real-Time Communication**
+
+Dytto is an online marketplace supporting **products, services, and donations** with a secure backend for buyer and seller interactions.
+
+The system includes marketplace payments, identity verification, real-time communication, notifications, maps, and multiple authentication mechanisms.
+
+**Key Technologies & Features**
+
+`Node.js` `MongoDB` `Firebase` `Stripe Connect` `Twilio` `Google Maps` `WebSockets`
+
+- Product and service marketplace
+- Donation workflows
+- Stripe Connect payments
+- Seller onboarding
+- KYC verification
+- Social authentication
+- Phone verification through Twilio
+- Firebase notifications
+- Real-time chat
+- Google Maps integration
+- Email-based password recovery
+
+🔗 [Visit Dytto](https://dytto.com/)
+
+---
+
+# 💡 Backend Expertise
+
+```text
+Backend Architecture        ████████████████████
+Node.js / NestJS            ████████████████████
+REST API Development        ████████████████████
+MongoDB / Databases         ███████████████████░
+Authentication & Security   ███████████████████░
+Redis / BullMQ              ██████████████████░░
+Third-Party Integrations    ████████████████████
+Payments & Subscriptions    ███████████████████░
+Cloud & Deployment          ██████████████████░░
+AI / LLM Integration        █████████████████░░░
+```
+
+---
+
+# ⚙️ What I Work With
+
+**Backend Development:**  
+Node.js • NestJS • Express.js • REST APIs • WebSockets • Microservices • Background Jobs
+
+**Databases:**  
+MongoDB • PostgreSQL • MySQL • Redis
+
+**Architecture:**  
+Multi-Tenant SaaS • RBAC • OAuth • API Security • Rate Limiting • Caching • Queue Processing • Batch Processing • Scheduled Jobs
+
+**Cloud & DevOps:**  
+AWS • Azure • DigitalOcean • Docker • Cloudflare • Ubuntu • GitHub Actions • CI/CD
+
+**Payments:**  
+Stripe • Stripe Connect • CoinGate • Ecommpay • Webhooks • Subscription Billing
+
+**Integrations:**  
+QuickBooks • Firebase • Twilio • SendGrid • Brevo • Google Maps • Zoom • Slack • Discord • Telegram • Microsoft Teams
+
+**AI:**  
+LLM Integration • AI-Powered Workflows • Data Analysis • AI Assistants • Prompt-Based Backend Systems
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Backend Engineering • SaaS Platforms • Distributed Systems • Cloud Architecture • FinTech • AI-Powered Applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awais_Ur_Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-rehmansoft-dev)
+
+---
+
+> **Building backend systems that are secure, scalable, maintainable, and ready for production.**
