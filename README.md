@@ -299,13 +299,15 @@ LLM Integration • AI-Powered Workflows • Data Analysis • AI Assistants •
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm interested in opportunities involving:
+I'm open to exciting opportunities, technical collaborations, and discussions around **Backend Engineering, SaaS Platforms, Cloud Architecture, Distributed Systems, and AI-Powered Applications**.
 
-**Backend Engineering • SaaS Platforms • Distributed Systems • Cloud Architecture • FinTech • AI-Powered Applications**
+Feel free to reach out — let's build something great together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awais_Ur_Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-rehmansoft-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-rehmansoft-dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923170657002)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais30299@gmail.com)
 
 ---
 
