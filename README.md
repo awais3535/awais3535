@@ -1,10 +1,10 @@
 # Hi 👋, I'm Awais Ur Rehman
 
-### Senior Backend Developer | Node.js • NestJS • Scalable APIs • Cloud • AI Integrations
+### Senior Software Engineer | Node.js • NestJS • Django • TypeScript •  Scalable APIs • Cloud • AI Integrations • DevOps
 
 I'm a **Software Engineer with 3+ years of professional experience** specializing in backend development and scalable application architecture.
 
-My core expertise is building **secure, high-performance, cloud-ready backend systems** using **Node.js, NestJS, Express.js, MongoDB, PostgreSQL, Redis, and AWS**.
+My core expertise is building **secure, high-performance, cloud-ready systems** using **Node.js, NestJS, Express.js, MongoDB, PostgreSQL, Redis, and AWS**.
 
 I've contributed to production applications across **SaaS, FinTech, Healthcare, E-commerce, Marketplaces, Advertising Analytics, and AI-powered products**.
 
@@ -23,8 +23,9 @@ My experience includes building and maintaining systems with:
 - AI & LLM integrations
 - Dockerized deployments
 - CI/CD pipelines
-- AWS, Azure & DigitalOcean infrastructure
+- AWS, GCP, Azure, Vercel & DigitalOcean infrastructure
 - Rate limiting & API security
+- Avoid code-smells
 - Monitoring and production troubleshooting
 
 I enjoy solving complex backend problems, designing clean architectures, improving system reliability, and building systems that can scale as products grow.
